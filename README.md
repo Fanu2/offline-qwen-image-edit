@@ -18,6 +18,7 @@ No external API keys are required. It runs locally using PyTorch + Diffusers on 
 - Python 3.9 or 3.10
 - CUDA-capable GPU with ~8GB+ VRAM
 - Stable internet only for first-time model download
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fanu2/offline-qwen-image-edit/blob/main/offline-qwen-image-edit-colab.ipynb)
 
 ---
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Fanu2/offline-qwen-image-edit/blob/main/offline_qwen_image_edit.ipynb)
