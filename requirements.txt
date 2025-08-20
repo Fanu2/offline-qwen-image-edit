@@ -1,0 +1,5 @@
+torch==2.1.0                 # or match your CUDA-compatible torch
+diffusers==0.23.0
+transformers>=4.35.0
+gradio>=3.45.0
+numpy
